@@ -1,6 +1,5 @@
 const inquirer = require('inquirer');
 const cTable = require('console.table');
-const express = require('express');
 const connection = require('./db/connection');
 const validate = require('./js/validate')
 
